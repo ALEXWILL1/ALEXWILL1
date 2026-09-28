@@ -174,28 +174,6 @@ A repository for learning TypeScript, JavaScript and testing.
 └──────────────────────────────────────────────┘
 ```
 
----
-
-## 🎯 My Developer Journey
-
-```text
-        LEARN
-          │
-          ▼
-      EXPERIMENT
-          │
-          ▼
-        BUILD
-          │
-          ▼
-         DEBUG
-          │
-          ▼
-        IMPROVE
-          │
-          └──────────────► REPEAT
-```
-
 I believe the best way to learn programming is not just by reading documentation, but by **building things and solving problems along the way.**
 
 ---
