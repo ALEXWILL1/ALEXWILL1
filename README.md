@@ -1,15 +1,9 @@
 <div align="center">
 
-<img src="./banner-alt.gif" alt="Hi, I'm Alexander William" width="100%" />
+<img src="./banner.gif" alt="Hi, I'm Alexander William" width="100%" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+building+things+with+code;Web+%7C+Mobile+%7C+Data;Always+learning%2C+always+building." alt="Typing SVG" />
-</p>
-
-<p>
-  <a href="https://github.com/ALEXWILL1"><img src="https://img.shields.io/github/followers/ALEXWILL1?label=Followers&style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/ALEXWILL1?tab=repositories"><img src="https://img.shields.io/github/stars/ALEXWILL1?label=Stars&style=for-the-badge&logo=github" /></a>
-</p>
+<a href="https://github.com/ALEXWILL1?tab=followers"><img src="https://img.shields.io/github/followers/ALEXWILL1?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b&color=f9a8d4" /></a>
+<a href="https://github.com/ALEXWILL1?tab=repositories"><img src="https://img.shields.io/github/stars/ALEXWILL1?label=Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b&color=fcd34d" /></a>
 
 </div>
 
