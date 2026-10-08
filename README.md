@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.gif" alt="Hi, I'm Alexander William" width="100%" />
+<img src="./banner-alt.gif" alt="Hi, I'm Alexander William" width="100%" />
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+building+things+with+code;Web+%7C+Mobile+%7C+Data;Always+learning%2C+always+building." alt="Typing SVG" />
