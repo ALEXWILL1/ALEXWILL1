@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.gif" alt="Hi, I'm Alexander William" width="100%" />
+<img src="./banner (1).gif" alt="Hi, I'm Alexander William" width="100%" />
 
 <a href="https://github.com/ALEXWILL1?tab=followers"><img src="https://img.shields.io/github/followers/ALEXWILL1?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b&color=f9a8d4" /></a>
 <a href="https://github.com/ALEXWILL1?tab=repositories"><img src="https://img.shields.io/github/stars/ALEXWILL1?label=Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b&color=fcd34d" /></a>
