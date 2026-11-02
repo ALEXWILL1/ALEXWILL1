@@ -67,8 +67,8 @@ A modern web project for exploring and managing comics.
 </td>
 <td width="50%" valign="top">
 
-### 📚 TypeScript Learning
-A repository for learning TypeScript, JavaScript and testing.
+### 📚 NikahStudio
+A repository for weeding card saas 
 
 `TypeScript` `Jest` `Babel`
 
